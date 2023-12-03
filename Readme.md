@@ -12,11 +12,11 @@ Usage:
 
 The following modules are included:
 
-`NN`: Contains the models based on CNN and RNN.
+`NN`: Contains the models based on CNN.
 
-`SVM`: Contains the models based on SVM using kernels based on the Wasserstein metric.
+<!-- `SVM`: Contains the models based on SVM using kernels based on the Wasserstein metric. -->
 
-`label_data`: Contains functions for labeling and augmenting the data.
+`label_data`: Contains functions for labeling the data.
 
 
 
